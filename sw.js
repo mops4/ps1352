@@ -14,11 +14,11 @@ const ASSETS = [
   "./rpc_worker.js",
   "./logo.png",
   "./payload.bin",
-  "./patches/1100.bin",
-  "./patches/1150.bin",
-  "./patches/1200.bin",
   "./patches/1250.bin",
-  "./patches/1300.bin"
+  "./patches/1300.bin",
+  "./patches/1302.bin",
+  "./patches/1350.bin",
+  "./patches/1352.bin"
 ];
 
 // تثبيت الكاش وتخزين الملفات واحداً تلو الآخر لتفادي خطأ الملف الواحد
